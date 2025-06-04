@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Nek! <br> </h2>
+<h2 align="center">👋 Hi, I’m KK! <br> </h2>
 
 <h4 align="center">Full-Time Housewife working as DevOps on the side</h4>
 
