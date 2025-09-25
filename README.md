@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and Angular**!
 
-- 📫 How to reach me: ilikevault@gmail.com
+- 📫 How to reach me: zehousewife@gmail.com
 
 - 😸 Pronouns: they/them
 
