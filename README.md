@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: ilikevault@gmail.com
 
-- 😸 Pronouns: they/she
+- 😸 Pronouns: they/them
 
 
 <!---
