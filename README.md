@@ -1,12 +1,10 @@
 <h2 align="center">👋 Hi, I’m KK! <br> </h2>
 
-<h4 align="center">Full-Time Housewife working as DevOps on the side</h4>
-
 - 😻 I’m interested in **Front-End Design and Experimental Ideas**!
 
 - 🌱 I’m currently learning **Spring Boot and Angular**!
 
-- 📫 How to reach me: zehousewife@gmail.com
+- 📫 How to reach me: kaajauernig@pm.me
 
 - 😸 Pronouns: they/them
 
